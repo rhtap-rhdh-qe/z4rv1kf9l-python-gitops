@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z4rv1kf9l-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/z4rv1kf9l-python
